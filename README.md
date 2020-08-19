@@ -3,7 +3,7 @@
 **Start here**: [`Analysis_OG.ipynb`](Analysis_OG.ipynb)
 
 ## :thought_balloon: Background
-This project applies concepts and techniques from [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Opinion mining](https://en.wikipedia.org/wiki/Sentiment_analysis).The goal here is simply to build an artificial intelligience system that differentiates [Hindi](https://en.wikipedia.org/wiki/Hindi), [Marathi](https://en.wikipedia.org/wiki/Marathi_language) code mixed with an english text on basis of their polarity. (ie positive, negative, neutral)
+This project applies concepts and techniques from [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Opinion mining](https://en.wikipedia.org/wiki/Sentiment_analysis).The goal here is simply to build an artificial intelligience system that differentiates [Hindi](https://en.wikipedia.org/wiki/Hindi), [Marathi](https://en.wikipedia.org/wiki/Marathi_language) code mixed with an english text on basis of their polarity. (ie positive, negative, neutral).overall.
 
 ### Sentiment vs. Software
 Using natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. 
